@@ -1,2 +1,2 @@
-# regression
-linear, ridge and lasso
+# Regression
+Linear, Ridge and Lasso
